@@ -1,0 +1,20 @@
+.content{
+    margin: auto;
+    width: 30%;
+    padding: 50px;
+    border: grey;
+    justify-content: center;
+    text-align: center;
+}
+body{
+    background-color: #FAFFB0;
+}
+.writing{
+    color: #3F0000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.fadet{
+    color:#a5a54c;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
